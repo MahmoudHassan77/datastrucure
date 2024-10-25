@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+#
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrayes", "Arrayes\Arrayes.csproj", "{05E5F4F8-8E7D-40D7-AAD3-7EB5E80D32ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithms", "SortingAlgorithms\SortingAlgorithms.csproj", "{3D2C9366-7A07-4C31-ACEB-699AEF87D3F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms-Datastructure-lib.Tests", "Algorithms-Datastructure-lib.Tests\Algorithms-Datastructure-lib.Tests.csproj", "{F15966E7-55DA-4FD1-B3CB-459E9A6EA6E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{39E71AD4-728B-482E-BAB7-80EF7AF73771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLeetCodeProblems", "TestLeetCodeProblems\TestLeetCodeProblems.csproj", "{024E0F47-15AE-428D-AE58-941333B50870}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Leetcode", "Leetcode", "{323881DB-2D6F-4464-8282-E20EB5464303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnsProblem", "ExcelSheetColumnsProblem\ExcelSheetColumnsProblem.csproj", "{770A58C7-E25E-48E2-ADE7-EA782C8DB870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zero-Sum-triplet", "Zero-Sum-triplet\Zero-Sum-triplet.csproj", "{D9B9C48E-9990-4A56-8892-7172A8BE56E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05E5F4F8-8E7D-40D7-AAD3-7EB5E80D32ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E5F4F8-8E7D-40D7-AAD3-7EB5E80D32ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E5F4F8-8E7D-40D7-AAD3-7EB5E80D32ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E5F4F8-8E7D-40D7-AAD3-7EB5E80D32ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2C9366-7A07-4C31-ACEB-699AEF87D3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2C9366-7A07-4C31-ACEB-699AEF87D3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2C9366-7A07-4C31-ACEB-699AEF87D3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2C9366-7A07-4C31-ACEB-699AEF87D3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15966E7-55DA-4FD1-B3CB-459E9A6EA6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15966E7-55DA-4FD1-B3CB-459E9A6EA6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15966E7-55DA-4FD1-B3CB-459E9A6EA6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15966E7-55DA-4FD1-B3CB-459E9A6EA6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E71AD4-728B-482E-BAB7-80EF7AF73771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E71AD4-728B-482E-BAB7-80EF7AF73771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E71AD4-728B-482E-BAB7-80EF7AF73771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E71AD4-728B-482E-BAB7-80EF7AF73771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{024E0F47-15AE-428D-AE58-941333B50870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024E0F47-15AE-428D-AE58-941333B50870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024E0F47-15AE-428D-AE58-941333B50870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024E0F47-15AE-428D-AE58-941333B50870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770A58C7-E25E-48E2-ADE7-EA782C8DB870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770A58C7-E25E-48E2-ADE7-EA782C8DB870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770A58C7-E25E-48E2-ADE7-EA782C8DB870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770A58C7-E25E-48E2-ADE7-EA782C8DB870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B9C48E-9990-4A56-8892-7172A8BE56E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B9C48E-9990-4A56-8892-7172A8BE56E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B9C48E-9990-4A56-8892-7172A8BE56E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B9C48E-9990-4A56-8892-7172A8BE56E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{024E0F47-15AE-428D-AE58-941333B50870} = {323881DB-2D6F-4464-8282-E20EB5464303}
+		{770A58C7-E25E-48E2-ADE7-EA782C8DB870} = {323881DB-2D6F-4464-8282-E20EB5464303}
+		{D9B9C48E-9990-4A56-8892-7172A8BE56E6} = {323881DB-2D6F-4464-8282-E20EB5464303}
+	EndGlobalSection
+EndGlobal
